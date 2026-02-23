@@ -1,0 +1,89 @@
+.about-section {
+  padding: 10px 0;
+}
+
+.about-me-container {
+  max-width: 1300px;
+  margin: 0 auto;
+  padding: 0 20px;
+}
+
+.about-me-content {
+  display: flex;
+  flex-direction: column;
+  gap: 3rem;
+}
+
+.about-me-title {
+  text-align: center;
+  font-size: 2.5rem;
+  color: #333;
+  margin-bottom: 3rem;
+  position: relative;
+}
+
+.about-me-title::after {
+  content: '';
+  position: absolute;
+  bottom: -10px;
+  left: 50%;
+  transform: translateX(-50%);
+  width: 60px;
+  height: 3px;
+  background-color: #272727;
+}
+
+.about-me-block {
+  width: 1300px;
+  display: flex;
+  background: white;
+  padding: 2rem;
+  border-radius: 12px;
+  box-shadow: 0 5px 15px rgba(0, 0, 0, 0.1);
+}
+
+.about-me-image {
+    width: 300px;
+}
+
+.about-me-text {
+    max-height: 100%;
+    display: flex;
+    flex-direction: column;
+    padding-left: 1em;
+    color: black;
+}
+
+.about-me-blurb {
+  font-size: 1rem;
+  line-height: 1.5rem;
+  font-weight: 500;
+}
+
+.about-me-blurb p {
+    margin-top: 0;
+}
+
+.skills-categories {
+  display: flex;
+  flex-direction: column;
+  gap: 0;
+}
+
+.skills-categories h3 {
+    margin: 0;
+}
+
+.skill-list {
+  display: flex;
+  flex-wrap: wrap;
+}
+
+.skill-item {
+  background-color: #e7e7e766;
+  color: #333;
+  padding: 0.4rem 0.6rem;
+  border-radius: 15px;
+  font-size: 0.85rem;
+  font-weight: 600;
+}
