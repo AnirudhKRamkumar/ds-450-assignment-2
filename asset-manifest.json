@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "/anirudhkramkumar.github.io/ds-450-assignment-2/static/css/main.055d6fdf.css",
-    "main.js": "/anirudhkramkumar.github.io/ds-450-assignment-2/static/js/main.29ad4377.js",
-    "static/media/din.ttf": "/anirudhkramkumar.github.io/ds-450-assignment-2/static/media/din.4424b037d8a45848978a.ttf",
-    "index.html": "/anirudhkramkumar.github.io/ds-450-assignment-2/index.html",
-    "main.055d6fdf.css.map": "/anirudhkramkumar.github.io/ds-450-assignment-2/static/css/main.055d6fdf.css.map",
-    "main.29ad4377.js.map": "/anirudhkramkumar.github.io/ds-450-assignment-2/static/js/main.29ad4377.js.map"
+    "main.css": "/ds-450-assignment-2/static/css/main.17419b5b.css",
+    "main.js": "/ds-450-assignment-2/static/js/main.29ad4377.js",
+    "static/media/din.ttf": "/ds-450-assignment-2/static/media/din.4424b037d8a45848978a.ttf",
+    "index.html": "/ds-450-assignment-2/index.html",
+    "main.17419b5b.css.map": "/ds-450-assignment-2/static/css/main.17419b5b.css.map",
+    "main.29ad4377.js.map": "/ds-450-assignment-2/static/js/main.29ad4377.js.map"
   },
   "entrypoints": [
-    "static/css/main.055d6fdf.css",
+    "static/css/main.17419b5b.css",
     "static/js/main.29ad4377.js"
   ]
 }
